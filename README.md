@@ -43,4 +43,4 @@ Este projeto é um sistema simples de loja online desenvolvido em PHP, utilizand
 
 ## Autor
 
-- Gerado por GitHub Copilot, solicitado por @Julioclaretiano
+- Gerado por GitHub , solicitado por @Julioclaretiano
